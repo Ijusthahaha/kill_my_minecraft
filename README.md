@@ -1,2 +1,2 @@
-# kill_my_minecraft
-Killing Minecraft Task by hotkeys.
+# Kill my Minecraft
+When your teacher approaches you, how to close your game efficiently and secretly?
